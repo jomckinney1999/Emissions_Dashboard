@@ -23,7 +23,7 @@ A donut chart breaking down the share of total US emissions attributed to the to
 - **TX** leads at **20.63%**
 - **FL** follows at **16.47%**
 - **OH** at **9.71%**, **IL** at **9.13%**
-- Together, the top 10 states account for **51% of all US emissions**
+- Together, the top 10 states account for **5.1% of all US emissions**
 
 ### 4. 📊 Total Emissions by County — mTon CO₂e (Bar Chart)
 A ranked horizontal bar chart of the top 10 highest-emitting counties by total emissions in metric tons of CO₂ equivalent:
