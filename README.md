@@ -48,10 +48,7 @@ A ranked horizontal bar chart of the top 10 highest-emitting counties by total e
 | Tool | Role |
 |------|------|
 | **Databricks** | Data processing, compute, and dashboard hosting |
-| **Mapbox** | Interactive geographic map rendering |
-| **SQL / PySpark** | Data transformation and aggregation |
-| **Databricks Lakestore** | Data storage and querying |
-
+| **SQL | Data transformation and aggregation |
 ---
 
 ## 🔍 Key Insights
